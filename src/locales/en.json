@@ -1,0 +1,9 @@
+{
+  "goodby": "Goodby",
+  "hello": "Hello {name}",
+  "email": "Our email is: {email}",
+  "car": "car | cars",
+  "person": "no people | one person | {count} people",
+  "terms": "I accept the {termsURL} of the service contract",
+  "termsLink": "terms and conditions"
+}
